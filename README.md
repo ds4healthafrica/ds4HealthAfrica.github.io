@@ -1,1 +1,1 @@
-# ds4health.africa.github.io
+# ds4HealthAfrica.github.io
